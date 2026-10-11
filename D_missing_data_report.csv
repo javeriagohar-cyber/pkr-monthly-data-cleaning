@@ -1,0 +1,17 @@
+column,missing_count,missing_percent,rows
+month,0,0.0,255
+fx_avg,0,0.0,255
+imports_musd,1,0.392,255
+exports_musd,1,0.392,255
+remit_musd,0,0.0,255
+sbp_reserves_musd,1,0.392,255
+policy_rate,118,46.275,255
+cpi_mom_pct,125,49.02,255
+fx_chg_pct,1,0.392,255
+imports_growth,2,0.784,255
+remit_growth,1,0.392,255
+reserves_chg_pct,2,0.784,255
+trade_balance_musd,1,0.392,255
+depr_next,1,0.392,255
+depr_next_025,1,0.392,255
+depr_this_month,1,0.392,255
